@@ -1,3 +1,4 @@
 <h1> Gifs Search: </h1>
-<input type="text" class="form-control" placeholder="Search gifs..." (keyup.enter)="searchGif()" #txtGifsInput>
+<input type="text" class="form-control" placeholder="Search gifs..." (keydown.enter)="searchGif()" #txtGifsInput>
+<button class="btn btn-primary d-md-none mt-2" (click)="searchGif()">Search</button>
 
