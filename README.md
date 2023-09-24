@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Demo
 
-Navigate to `https://novaeric.github.io/gifs-app/` to see the application funtionally running.
+Navigate to https://novaeric.github.io/gifs-app/ to see the application funtionally running.
 
 ## Development server
 
